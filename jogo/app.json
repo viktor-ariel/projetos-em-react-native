@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "jogo",
+    "slug": "jogo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "63a58840-385b-48a4-9ce5-6a0863c22a9e"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "snake",
+    "slug": "snake",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "bdb5a0b4-820c-4deb-834d-b3e0a321391f"
+      }
+    }
+  }
+}

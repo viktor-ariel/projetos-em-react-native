@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mapa-com-market",
+    "slug": "mapa-com-market",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
